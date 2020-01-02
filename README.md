@@ -19,7 +19,7 @@ We create helper functions that we will use throughout the project to run sql co
 
 The record label specializes in artists in the USA. Therefore we analyzed popularity of genres in the USA.
 
-We also did addtional research to find the employee performances, best countries to advertise and whether Chinook should continue to keep buying whole albums or individual tracks.
+We also did addtional research to find the employee performances, best countries to advertise and whether Chinook should continue to keep buying whole albums or switch over to only buying individual tracks.
 
 # Results
 
@@ -34,4 +34,4 @@ All employees are performing in correlation to how long they have been working a
 The best countries to run marketing campaigns would be Czech Republic, U.K. and India due to thier high total sales to customer ratio.
 It is important to note the data can be skewed due to the small sample of customers in each of these countries.
 
-Finally, due to 20% of sales come from whole albums, Chinook should continue to keep buying whole albums instead of just individual tracks.
+Finally, due to 20% of sales coming from whole albums, Chinook should continue to keep buying whole albums instead of just buying individual tracks.
